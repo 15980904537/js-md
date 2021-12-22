@@ -1,0 +1,17 @@
+{
+  "name": "20201210",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start":"NODE_ENV=dev&xxx",
+    "test":"NODE_ENV=test&xxx",
+    "build":"NODE_ENV=pro&xxx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
